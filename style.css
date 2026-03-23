@@ -1,0 +1,68 @@
+#top {
+  border: 2px solid black;
+}
+
+#row {
+  display: flex;
+  background-color: #e3d2d1;
+  border-bottom: 2px solid black;
+  margin-left:5%;
+  margin-right:5%;
+}
+
+#coloLeft {
+  width: 30%;
+  padding-left: 2%;
+  center: left;
+  border-right: 2px solid black;
+  padding-bottom: 2%;
+}
+
+#coloRight {
+  width: 55%;
+  center: left;
+  padding-left: 5%;
+  margin-top: auto;
+  margin-bottom: auto;
+}
+
+a {
+  color: white;
+}
+
+img {
+  width: 80%;
+}
+
+p {
+  font-size: 150%;
+}
+
+header{
+  background-color: #6f8069;
+  border-bottom: 2px solid black;
+}
+
+nav {
+  background-color: #6f8069;
+  padding-top:1%;
+  padding-bottom:1%;
+}
+
+body {
+  background-image: url("https://images.pixels.com/images/artworkimages/mediumlarge/3/seamless-floral-pattern-with-flowers-on-dark-background-julien.jpg")
+}
+
+main {
+  padding-top:1%;
+  padding-bottom:3%;
+}
+#main {
+  padding-top:1%;
+  padding-bottom:1%;
+  margin-top:2%;
+  margin-left:5%;
+  margin-right:5%;
+  background-color:#e3d2d1;
+  border:2px solid black
+}
